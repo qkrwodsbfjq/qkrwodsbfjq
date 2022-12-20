@@ -1,6 +1,5 @@
 <div align="center">
 
-<p align="right"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Ji-Un-Gil?style=social"></p>
  <h1>Jaeyun Park</h1>
 
 <hr>
