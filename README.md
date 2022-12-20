@@ -4,6 +4,7 @@
 
 <hr>
 
+ <!--
 #### Tech Stack
 <img src="https://img.shields.io/badge/Python-5CB9FF?style=flat&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/C-E0EBEB?style=flat&logo=C&logoColor=A8B9CC"/>
@@ -19,6 +20,8 @@
 <img src="https://img.shields.io/badge/Spring-B3FFB3?style=flat&logo=Spring&logoColor=6DB33F"/>
 <img src="https://img.shields.io/badge/SpringBoot-B3FFB3?style=flat&logo=SpringBoot&logoColor=6DB33F"/>
 
+-->
+ 
 <hr>
 
 #### Github Stats
