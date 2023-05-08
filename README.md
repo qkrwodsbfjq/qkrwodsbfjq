@@ -22,9 +22,9 @@
 <hr>
 
 #### Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choi5798&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrwodsbfjq&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi5798&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrwodsbfjq&layout=compact&theme=tokyonight)
 
 <hr>
 
