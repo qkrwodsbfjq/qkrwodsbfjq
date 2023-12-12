@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=30&pause=1000&color=FEFFF2&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=70&lines=Hi+there!+I'm+Jaeyun+Park👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=30&pause=1000&color=FFFFF2&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there!+I'm+Jaeyun+Park👋)](https://git.io/typing-svg)
 
 <br>
 
@@ -43,13 +43,11 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>
 <br><br>
-
-<hr>
+<br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrwodsbfjq&show_icons=true&theme=ayu-mirage)
 
-<hr>
-
+<br><br>
 <a href="https://www.notion.so/WELCOME-68b95d05b15348ceb2e08605422df8d8" target="_blank">
 <img src="https://img.shields.io/badge/notion-FFFFFF?style=social&logo=Notion&logoColor=black"/>
 </a>
