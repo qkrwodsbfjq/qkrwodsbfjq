@@ -48,7 +48,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrwodsbfjq&show_icons=true&theme=ayu-mirage)
 
 <br><br>
-<a href="https://www.notion.so/WELCOME-68b95d05b15348ceb2e08605422df8d8" target="_blank">
+<a href="https://laced-soda-e8a.notion.site/Portfolio-27873d5bf1d44440bf0800527e9ce1ec" target="_blank">
 <img src="https://img.shields.io/badge/notion-FFFFFF?style=social&logo=Notion&logoColor=black"/>
 </a>
 <a href="https://www.instagram.com/zzae_uni_._.v/" target="_blank">
