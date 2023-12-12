@@ -48,8 +48,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrwodsbfjq&show_icons=true&theme=ayu-mirage)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrwodsbfjq&layout=compact&theme=ayu-mirage)
-
 <hr>
 
 <a href="https://www.notion.so/WELCOME-68b95d05b15348ceb2e08605422df8d8" target="_blank">
@@ -64,5 +62,3 @@
 <a href="https://zzaeuni.tistory.com/" target="_blank">
 <img src="https://img.shields.io/badge/Tistory-C0C0C0?style=social&logo=Tistory&logoColor=E74C3C"/>
 </a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
