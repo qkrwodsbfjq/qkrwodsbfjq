@@ -57,3 +57,8 @@
 <a href="https://github.com/qkrwodsbfjq" target="_blank">
 <img src="https://img.shields.io/badge/Github-C0C0C0?style=social&logo=Github&logoColor=181717"/>
 </a>
+<!--
+<a href="https://zzaeuni.tistory.com/" target="_blank">
+<img src="https://img.shields.io/badge/Tistory-C0C0C0?style=social&logo=Tistory&logoColor=E74C3C"/>
+</a>
+-->
