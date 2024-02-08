@@ -8,7 +8,7 @@
 
 <div style="display: flex; justify-content: flex-start">
   <h4 style="text-align:left"> :computer: Back-end Developer </h4>
-  <h4 style="text-align:left"> :school: Kyoung Hee University</h4>
+  <h4 style="text-align:left"> :school: Kyung Hee University</h4>
 
 
 <br><br>
