@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=30&pause=1000&color=FFFFF2&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there!+I'm+Jaeyun+Park👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=30&pause=1000&color=000000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there!+I'm+Jaeyun+Park👋)](https://git.io/typing-svg)
 
 <br>
 
